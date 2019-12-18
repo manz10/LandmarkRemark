@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Landmark Remark</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="empty_message">There are no notes added yet. Please add the notes to save and view in this section.</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_notes">Notes</string>
+    <string name="menu_signOut">Sign Out</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_message">You must login to add notes.</string>
+</resources>
